@@ -25,6 +25,7 @@
 
 <style lang="scss">
 	/*每个页面公共css */
-	// @import "./uni_modules/vk-uview-ui/index.scss";
-  @import "./common/css/app.scss";
+	@import "./uni_modules/vk-uview-ui/index.scss";
+	/* 自定义全局css */
+	@import "./common/css/app.scss";
 </style>
